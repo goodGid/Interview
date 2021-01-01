@@ -70,9 +70,9 @@
   
 - 생명 주기에 대해 설명해주세요
 
-- 성능을 고려해서 작업한 부분이 있는가요?
+- 성능을 고려해서 작업한 부분이 있나요?
 
-	- UpdateAll로 해서 성능 최적화
+  - [성능을 고려해서 작업한 부분이 있나요?](https://github.com/goodGid/Interview/blob/main/JPA/%EC%84%B1%EB%8A%A5%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%84%9C%20%EC%9E%91%EC%97%85%ED%95%9C%20%EB%B6%80%EB%B6%84%EC%9D%B4%20%EC%9E%88%EB%82%98%EC%9A%94%3F.md)
 
   
 
