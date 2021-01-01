@@ -69,7 +69,8 @@
   - [JPA에서 말하는 Dialect(방언)이란?](https://goodgid.github.io/What-is-Dialect/)
   
   
----
+
+
 
 
 ## Spring
@@ -81,13 +82,18 @@
 - MVC vs Boot 차이에 대해 설명해주세요
 
 
----
+
+
+
 
 ## ORM
 
 - Hibernate에 대해 설명해주세요
 
----
+
+
+
+
 
 ## JPA
 
