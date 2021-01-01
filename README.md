@@ -76,7 +76,7 @@
 
   - [Data Save시 Bulk Insert 혹은 Bulk Update로 처리하기](https://github.com/goodGid/Interview/blob/main/JPA/Data%20Save%EC%8B%9C%20Bulk%20Insert%20%ED%98%B9%EC%9D%80%20Bulk%20Update%EB%A1%9C%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
 
-  
+- N+1 문제와 해결책에 대해 설명해주세요  
 
 
 
