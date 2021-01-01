@@ -59,7 +59,7 @@
   - [String, StringBuffer, StringBuilder의 특징 및 비교](https://goodgid.github.io/Java-String-Set/)
 
 
----
+
 
 
 ## JPA
@@ -68,6 +68,12 @@
 
   - [JPA에서 말하는 Dialect(방언)이란?](https://goodgid.github.io/What-is-Dialect/)
   
+- 생명 주기에 대해 설명해주세요
+
+- 성능을 고려해서 작업한 부분이 있는가요?
+
+	- UpdateAll로 해서 성능 최적화
+
   
 
 
@@ -91,17 +97,6 @@
 - Hibernate에 대해 설명해주세요
 
 
-
-
-
-
-## JPA
-
-- 생명 주기에 대해 설명해주세요
-
-- 성능을 고려해서 작업한 부분이 있는가요?
-
-	- UpdateAll로 해서 성능 최적화
 
 
 
