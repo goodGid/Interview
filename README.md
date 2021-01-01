@@ -31,4 +31,18 @@
 - Servlet Life Cycle에 대해 설명해주세요
 
   - [Servlet Life Cycle 알아보기](https://goodgid.github.io/Java-Servlet-Life-Cycle/)
+  
+- Java에서 String을 다루는 다양한 클래스들(String, StringBuffer, StringBuilder)에 대해서 비교 설명해주세요 
 
+  - [String, StringBuffer, StringBuilder의 특징 및 비교](https://goodgid.github.io/Java-String-Set/)
+
+
+
+## JPA
+
+- JPA에서 말하는 Dialect(방언)에 대해 설명해주세요
+
+  - [JPA에서 말하는 Dialect(방언)이란?](https://goodgid.github.io/What-is-Dialect/)
+
+
+Dialect(방언)이란?
