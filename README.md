@@ -59,9 +59,27 @@
   - [String, StringBuffer, StringBuilder의 특징 및 비교](https://goodgid.github.io/Java-String-Set/)
 
 
+---
+
 
 ## JPA
 
 - JPA에서 말하는 Dialect(방언)에 대해 설명해주세요
 
   - [JPA에서 말하는 Dialect(방언)이란?](https://goodgid.github.io/What-is-Dialect/)
+  
+  
+---
+
+
+## Spring
+
+- Spring AOP에 대해 설명해주세요
+
+- IoC에 대해 설명해주세요
+
+- MVC vs Boot 차이에 대해 설명해주세요
+
+
+
+
