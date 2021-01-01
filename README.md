@@ -72,7 +72,7 @@
 
 - 성능을 고려해서 작업한 부분이 있나요?
 
-  - [Data Save시 Bulk Insert 혹은 Bulk Update로 처리하기](https://github.com/goodGid/Interview/blob/main/JPA/%EC%84%B1%EB%8A%A5%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%84%9C%20%EC%9E%91%EC%97%85%ED%95%9C%20%EB%B6%80%EB%B6%84%EC%9D%B4%20%EC%9E%88%EB%82%98%EC%9A%94%3F.md)
+  - [Data Save시 Bulk Insert 혹은 Bulk Update로 처리하기](https://github.com/goodGid/Interview/blob/main/JPA/Data%20Save%EC%8B%9C%20Bulk%20Insert%20%ED%98%B9%EC%9D%80%20Bulk%20Update%EB%A1%9C%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
 
   
 
