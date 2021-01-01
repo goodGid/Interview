@@ -20,8 +20,15 @@
   - [JVM 구조](https://goodgid.github.io/Java-JVM/)
 
 - Map 관련해서 설명해주세요
-
-  - [Differences between TreeMap, HashMap and LinkedHashMap in Java](https://www.geeksforgeeks.org/differences-treemap-hashmap-linkedhashmap-java/)
+  
+  - [Map 컬렉션 - HashMap, LinkedHashMap, Hashtable, TreeMap](https://velog.io/@gillog/Map-%EC%BB%AC%EB%A0%89%EC%85%98-HashMap)
+  
+    ```
+    HashMap : No Thread Safe
+    HashTable : Thread Safe
+    LinkedHashMap : the linked list preserves the insertion-order.
+    TreeMap : Sorted by keys
+    ```
 
 - Stream에 대해 설명해주세요
 
