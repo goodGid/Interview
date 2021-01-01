@@ -5,6 +5,15 @@
   - [가비지 컬렉션(Garbage Collection) 1편](https://goodgid.github.io/Java-Garbage-Collection-(1))
   
   - [가비지 컬렉션(Garbage Collection) 2편](https://goodgid.github.io/Java-Garbage-Collection-(2))
+  
+- Java 8과 Java 11에서 Default GC 전략은 무엇인가요?
+
+  - [Best practice for JVM Tuning with G1 GC](https://backstage.forgerock.com/knowledge/kb/article/a75965340)
+  
+```
+on Java 8, the default GC is Parallel GC, 
+while on Java 11 the default is G1 GC.
+```
 
 - JVM에 대해 설명해주세요
 
