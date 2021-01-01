@@ -22,4 +22,6 @@
   
     - [Java 8에서 JVM의 변화 : PermGen이 사라지고 Metaspace가 등장하다.](https://goodgid.github.io/Java-8-JVM-Metaspace/)
     
-    
+- String.equals( ) vs Object.equals( )에 대해 설명해주세요
+
+  - [String.class의 equals() 메소드 알아보기](https://goodgid.github.io/Java-Object-String-Equlas/)
