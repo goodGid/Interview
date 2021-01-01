@@ -4,6 +4,8 @@
 
 - JVM에 대해 설명해주세요
 
+  - [JVM 구조](https://goodgid.github.io/Java-JVM/)
+
 - HashMap 관련해서 설명해주세요
 
 - Stream에 대해 설명해주세요
@@ -24,4 +26,9 @@
     
 - String.equals( ) vs Object.equals( )에 대해 설명해주세요
 
-  - [String.class의 equals() 메소드 알아보기](https://goodgid.github.io/Java-Object-String-Equlas/)
+  - [String.class의 equals() 메소드 알아보기](https://goodgid.github.io/Java-Object-String-Equlas
+  
+- Servlet Life Cycle에 대해 설명해주세요
+
+  - [Servlet Life Cycle 알아보기](https://goodgid.github.io/Java-Servlet-Life-Cycle/)
+
