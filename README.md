@@ -2,6 +2,10 @@
 
 - GC에 대해 설명해주세요
 
+  - [가비지 컬렉션(Garbage Collection) 1편](https://goodgid.github.io/Java-Garbage-Collection-(1))
+  
+  - [가비지 컬렉션(Garbage Collection) 2편](https://goodgid.github.io/Java-Garbage-Collection-(2))
+
 - JVM에 대해 설명해주세요
 
   - [JVM 구조](https://goodgid.github.io/Java-JVM/)
