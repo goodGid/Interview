@@ -47,6 +47,3 @@
 - JPA에서 말하는 Dialect(방언)에 대해 설명해주세요
 
   - [JPA에서 말하는 Dialect(방언)이란?](https://goodgid.github.io/What-is-Dialect/)
-
-
-Dialect(방언)이란?
