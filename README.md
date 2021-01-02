@@ -8,3 +8,5 @@
 * [JUnit](https://github.com/goodGid/Interview/tree/main/Junit)
 
 * [Spring Batch](https://github.com/goodGid/Interview/tree/main/Spring%20Batch)
+
+* [QueryDSL](https://github.com/goodGid/Interview/tree/main/QueryDSL)
