@@ -42,3 +42,7 @@
     - [Java 설정 파일에 Component Scan 방식](https://goodgid.github.io/Spring-Framework-ApplicationContext-Java-Component-Scan)
 
     - [@SpringBootApplication](https://goodgid.github.io/Spring-Framework-ApplicationContext-SpringBootApplication-Annotation)
+    
+- Spring Bean의 Life Cycle에 대해 설명해주세요
+
+    - [스프링 핵심 원리 - 기본편 #51 빈 생명주기 콜백](https://velog.io/@jakeseo_me/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-51-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
