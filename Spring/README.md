@@ -46,3 +46,12 @@
 - Spring Bean의 Life Cycle에 대해 설명해주세요
 
     - [스프링 핵심 원리 - 기본편 #51 빈 생명주기 콜백](https://velog.io/@jakeseo_me/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-51-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
+    
+- Spring의 Bean의 초기화 및 소멸 Method에 대해 설명해주세요
+
+    - [스프링 핵심 원리 - 기본편 #52 인터페이스 InitializingBean, DisposalBean](https://velog.io/@jakeseo_me/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-52-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-InitializingBean-DisposalBean)
+
+    - [스프링 핵심 원리 - 기본편 #53 빈 등록 초기화, 소멸 메소드](https://velog.io/@jakeseo_me/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-53-%EB%B9%88-%EB%93%B1%EB%A1%9D-%EC%B4%88%EA%B8%B0%ED%99%94-%EC%86%8C%EB%A9%B8-%EB%A9%94%EC%86%8C%EB%93%9C)
+
+    - [스프링 핵심 원리 - 기본편 #54 애노테이션 @PostConstruct, @PreDestroy](https://velog.io/@jakeseo_me/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8-54-%EC%95%A0%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-PostConstruct-PreDestroy)
+
