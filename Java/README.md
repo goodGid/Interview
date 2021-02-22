@@ -59,3 +59,10 @@
 - Java에서 String을 다루는 다양한 클래스들(String, StringBuffer, StringBuilder)에 대해서 비교 설명해주세요 
 
   - [String, StringBuffer, StringBuilder의 특징 및 비교](https://goodgid.github.io/Java-String-Set/)
+- Java Generic에 대해 설명해주세요
+
+  - [Java Generics에서 <?> 와 <? extends Object> 차이에 대해 알아보자](https://goodgid.github.io/Java-Generics-vs-Extends-Object/)
+
+  - [Java Generics 기초 학습하기 : The Basics of Java Generics](https://goodgid.github.io/The-Basics-of-Java-Generics/)
+
+  - [Java / Generic](https://cla9.tistory.com/category/JAVA/Generic)
