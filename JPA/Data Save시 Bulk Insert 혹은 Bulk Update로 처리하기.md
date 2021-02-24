@@ -55,7 +55,42 @@ spring.jpa.properties.hibernate.jdbc.batch_size=4
 
 * **연관 관계**가 걸려있는 경우
 
-  Batch로 insert/update가 되지 않는 경우가 있다.
+  기본적으로 묶어서 insert/update가 되지 않는다.
+  
+``` java
+public void doBatch() {
+Session session = sessionFactory.openSession();
+Transaction tx = session.beginTransaction();
+for ( int i=0; i<100000; i++ ) {
+    Customer customer = new Customer(.....);
+    Cart cart = new Cart(...);
+    customer.setCart(cart) // note we are adding the cart to the customer, so this object
+     // needs to be persisted as well
+    session.save(customer);
+    if ( (i + 1) % 20 == 0 ) { //20, same as the JDBC batch size
+        //flush a batch of inserts and release memory:
+        session.flush();
+        session.clear();
+    }
+}
+tx.commit();
+session.close();
+}
+```
+
+* 이유는 Customer-Cart가 연관 관계가 있어서 
+
+  하나의 Customer insert 후에 
+  
+  곧바로 Cart가 insert되고 
+  
+  그 다음에 다시 Customer가 insert가 되기 때문에 
+  
+  Customer는 Customer끼리 Cart는 Cart끼리 묶이지 않는다.
+  
+* 그래서 동일 객체끼리 묶기 위해선 
+
+  다음과 같이 설정을 해줘야 한다.
 
 > properties
 
@@ -74,9 +109,7 @@ spring.jpa.properties.hibernate.order_updates=true
 ---
 
 
-* **@GeneratedValue(strategy = GenerationType.IDENTITY)** 설정이 되어있다면 
-
-  insert가 되지 않는다.
+* **@GeneratedValue(strategy = GenerationType.IDENTITY)** 설정이 되어있다면 insert가 되지 않는다.
 
 > 참고
 
