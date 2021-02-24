@@ -55,7 +55,7 @@ spring.jpa.properties.hibernate.jdbc.batch_size=4
 
 * **연관 관계**가 걸려있는 경우
 
-  기본적으로 묶어서 insert/update가 되지 않는다.
+  기본적으로는 묶여서 insert/update가 되지 않는다.
   
 ``` java
 public void doBatch() {
@@ -78,13 +78,15 @@ session.close();
 }
 ```
 
-* 이유는 Customer-Cart가 연관 관계가 있어서 
+* 그 이유는 Customer-Cart가 연관 관계가 있고
 
-  하나의 Customer insert 후에 
+  하나의 Customer insert 
   
-  곧바로 Cart가 insert되고 
+  -> 곧바로 Cart insert
   
-  그 다음에 다시 Customer가 insert가 되기 때문에 
+  -> 다시 Customer insert
+  
+  위 순서로 동작하므로
   
   Customer는 Customer끼리 Cart는 Cart끼리 묶이지 않는다.
   
