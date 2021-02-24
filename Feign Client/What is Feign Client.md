@@ -35,6 +35,10 @@ it's also easy to mock them during unit tests.
 * Business Logic Code 수정없이 구현체 구성이 가능하다.
 
 
+* Interceptor 기능을 활용하면
+
+  header와 같은 고정적인 값들을 편리하게 설정할 수 있다.
+
 
 ---
 
