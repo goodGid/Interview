@@ -30,8 +30,8 @@
   - [Map 컬렉션 - HashMap, LinkedHashMap, Hashtable, TreeMap](https://velog.io/@gillog/Map-%EC%BB%AC%EB%A0%89%EC%85%98-HashMap)
   
     ```
-    HashMap : No Thread Safe
-    HashTable : Thread Safe
+    HashMap : No Thread Safe, key = null 가능
+    HashTable : Thread Safe, key == null 불가능
     LinkedHashMap : the linked list preserves the insertion-order.
     TreeMap : Sorted by keys
     ```
