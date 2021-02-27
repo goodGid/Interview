@@ -21,6 +21,10 @@
 
   - [JVM 구조](https://goodgid.github.io/Java-JVM/)
 
+  - [[Java Optimizing] 2. JVM 이야기 : Interpreting과 Class Loading](https://goodgid.github.io/Java-Optimizing-JVM-Story-Interpreting-and-Classloading/)
+
+  - [Java 8에서 JVM의 변화 : PermGen이 사라지고 Metaspace가 등장하다.](https://goodgid.github.io/Java-8-JVM-Metaspace/)
+
 - Map 관련해서 설명해주세요
   
   - [Map 컬렉션 - HashMap, LinkedHashMap, Hashtable, TreeMap](https://velog.io/@gillog/Map-%EC%BB%AC%EB%A0%89%EC%85%98-HashMap)
