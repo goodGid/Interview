@@ -33,7 +33,7 @@
   
     ```
     HashMap : No Thread Safe, key = null 가능
-    HashTable : Thread Safe, key == null 불가능
+    HashTable : Thread Safe, key = null 불가능
     LinkedHashMap : the linked list preserves the insertion-order.
     TreeMap : Sorted by keys
     ```
