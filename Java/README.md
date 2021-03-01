@@ -7,6 +7,8 @@
   - [가비지 컬렉션(Garbage Collection) 1편](https://goodgid.github.io/Java-Garbage-Collection-(1))
   
   - [가비지 컬렉션(Garbage Collection) 2편](https://goodgid.github.io/Java-Garbage-Collection-(2))
+
+  - [[Java Optimizing] 7. 가비지 수집 고급 : G1 GC](https://goodgid.github.io/Java-Optimizing-Advanced-Garbage-Collection-G1-GC/)
   
 - Java 8과 Java 11에서 Default GC 전략은 무엇인가요?
 
