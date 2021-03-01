@@ -21,7 +21,7 @@
 
     - [DispatcherServlet 동작 원리](https://goodgid.github.io/Java-DispatcherServlet/)
 
-    - [DispatcherServlet가 WebApplicationContext를 생성하는 2가지 방법](https://goodgid.github.io/Spring-DispatcherServlet/)
+    - [DispatcherServlet가 WebApplicationContext를 생성하는 2가지 방법](https://goodgid.github.io/Spring-How-DispatcherServlet-creates-WebApplicationContext/)
 
 - MVC vs Boot 차이에 대해 설명해주세요
 
