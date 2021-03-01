@@ -15,7 +15,7 @@
     - [Spring 프레임워크 핵심 기술 - Proxy 객체를 만드는 방법](https://goodgid.github.io/Spring-Framework-Make-Proxy-Bean/)
     
 
-- [IoC와 DI에 대해 설명해주세요](https://github.com/goodGid/Interview/blob/main/Spring/Ioc-and-DI.md)
+- [IoC와 DI에 대해 설명해주세요](https://github.com/goodGid/Interview/blob/main/Spring/IoC-and-DI.md)
 
 - DispatcherServlet에 대해 설명해주세요
 
