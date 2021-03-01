@@ -49,7 +49,7 @@ public interface ApplicationContext extends EnvironmentCapable, ListableBeanFact
 
 ## DI
 
-![](./src/Ioc-and-DI_1.png)
+![](https://github.com/goodGid/Interview/blob/main/Spring/src/IoC-and-DI_1.png)
 
 * 위의 그림처럼 IoC를 구현하는 방법으로 
 
