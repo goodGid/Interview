@@ -10,13 +10,11 @@
 
   - [[Java Optimizing] 7. 가비지 수집 고급 : G1 GC](https://goodgid.github.io/Java-Optimizing-Advanced-Garbage-Collection-G1-GC/)
   
-- Java 8과 Java 11에서 Default GC 전략은 무엇인가요?
+- Java 8과 Java 9에서 Default GC 전략은 무엇인가요?
 
-  - [Best practice for JVM Tuning with G1 GC](https://backstage.forgerock.com/knowledge/kb/article/a75965340)
-  
     ```
-    Java  : the default GC is Parallel GC 
-    Java 11 : the default GC is G1 GC
+    Java 8 : the default GC is Parallel GC 
+    Java 9 : the default GC is G1 GC
     ```
 
 - JVM에 대해 설명해주세요
