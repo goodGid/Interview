@@ -15,7 +15,7 @@
   - [Best practice for JVM Tuning with G1 GC](https://backstage.forgerock.com/knowledge/kb/article/a75965340)
   
     ```
-    Java 8 : the default GC is Parallel GC 
+    Java  : the default GC is Parallel GC 
     Java 11 : the default GC is G1 GC
     ```
 
