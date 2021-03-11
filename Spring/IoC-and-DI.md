@@ -16,7 +16,7 @@
 
 ### BeanFactory
 
-* BeanFactory 인터페이스는 IOC 컨테이너의 기능을 정의하고 있는 인터페이스이다.
+* BeanFactory 인터페이스는 IoC Container의 기능을 정의하고 있는 인터페이스이다.
 
 * Bean의 생성 및 의존성 주입, 생명주기(lifecycle) 관리 등의 기능을 제공한다. 
 
